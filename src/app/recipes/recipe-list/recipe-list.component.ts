@@ -22,7 +22,5 @@ export class RecipeListComponent {
     },
   ];
 
-  constructor() {
-    console.log(this.recipes);
-  }
+  constructor() {}
 }
